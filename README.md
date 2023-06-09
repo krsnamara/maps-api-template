@@ -9,3 +9,5 @@ It is setting a basic API consuming app with a rating system using Material UI a
 This repo has everything up to 46:00 mark where the instructor starts to implement the API's the app will consume. As I do not plan to use these specific API's and this is meant to be a generic tool I will leave the template at this part of the build.
 
 <a href="https://www.youtube.com/watch?v=m6hHfkOYYuw&ab_channel=Weibenfalk">Weibenfalk</a>
+
+<a href="https://create-react-app.dev/docs/custom-templates/">React Docs</a>
