@@ -1,8 +1,21 @@
 {
-  "name": "cra-template-map-api",
+  "name": "cra-template-google-map-api",
   "version": "1.0.0",
+  "keywords": [
+    "react",
+    "template",
+    "map",
+    "api",
+    "create-react-app",
+    "cra",
+    "cra-template",
+    "cra-template-map-api",
+    "cra-template-map-api-react",
+    "cra-template-map-api-react-app",
+    "cra-template-map-api-react-app-template"
+  ],
   "description": "building out basic maps api react app template",
-  "main": "index.js",
+  "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
